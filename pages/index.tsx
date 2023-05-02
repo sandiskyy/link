@@ -13,7 +13,7 @@ const lichess = "#";
 const spotify = "https://open.spotify.com/user/31cn2ctfkwili4n53iiixtkzxb2u?si=6e5ae14c0bbe4547";
 const lastfm = "#";
 const telegram = "https://t.me/sanfox";
-const BuyMeACoffee = "https://www.buymeacoffee.com/arunava";
+const BuyMeACoffee = "#";
 const mail = "mailto:sandikrxyzn@gmail.com";
 const discord = "#";
 const discordTag = "NULL";
