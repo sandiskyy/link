@@ -3,20 +3,20 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "S";
-const belowLink = "hi.san 👋🏻"
-const bio = "backend & design | php, python"
+const belowLink = "hi i'm sandi👋🏻"
+const bio = "backend & bug hunter | php, python"
 
 const twitter = "#";
 const instagram = "https://instagram.com/thisissandii_";
 const github = "https://github.com/sandix000";
 const lichess = "#";
-const spotify = "#";
+const spotify = "https://open.spotify.com/user/31cn2ctfkwili4n53iiixtkzxb2u?si=6e5ae14c0bbe4547";
 const lastfm = "#";
-const telegram = "#";
+const telegram = "https://t.me/sanfox";
 const BuyMeACoffee = "https://www.buymeacoffee.com/arunava";
-const mail = "mailto:itsag0024@gmail.com";
-const discord = "https://discord.com/user/968448572641124352";
-const discordTag = "/dev/ag#1288";
+const mail = "mailto:sandikrxyzn@gmail.com";
+const discord = "#";
+const discordTag = "NULL";
 
 function myFunction() {
   var x = document.getElementById("snackbar");
