@@ -3,16 +3,16 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "Arunava Ghosh";
-const belowLink = "hi.arunava.tech 👋🏻"
-const bio = "frontend & design | nextjs, typescript"
+const belowLink = "hi.san 👋🏻"
+const bio = "backend & design | php, python"
 
-const twitter = "https://twitter.com/agcodess";
-const instagram = "https://instagram.com/agcodess";
-const github = "https://github.com/its-ag";
-const lichess = "https://arunava.tech/chess";
-const spotify = "https://arunava.tech/spotify";
-const lastfm = "https://www.last.fm/user/arunava_";
-const telegram = "https://telegram.me/agcodes";
+const twitter = "#";
+const instagram = "https://instagram.com/thisissandii_";
+const github = "https://github.com/sandix000";
+const lichess = "#";
+const spotify = "#";
+const lastfm = "#";
+const telegram = "#";
 const BuyMeACoffee = "https://www.buymeacoffee.com/arunava";
 const mail = "mailto:itsag0024@gmail.com";
 const discord = "https://discord.com/user/968448572641124352";
