@@ -2,7 +2,7 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Arunava Ghosh";
+const name = "S";
 const belowLink = "hi.san 👋🏻"
 const bio = "backend & design | php, python"
 
