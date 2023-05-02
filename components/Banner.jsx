@@ -13,9 +13,9 @@ function Banner({ icon, label }) {
     return (
       <div className="mx-auto flex flex-wrap items-center justify-center gap-1">
         <Banner icon="💻" label="Coder" />
-        <Banner icon="🎨" label="Designer" />
-        <Banner icon="🎐" label="Anime" />
-        <Banner icon="♟️" label="Chess" />
+        <Banner icon="🐞" label="Bug" />
+        <Banner icon="🎐" label="Film" />
+        <Banner icon="♟️" label="Game" />
         <Banner icon="🎵" label="Music" />
       </div>
     );
